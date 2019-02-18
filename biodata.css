@@ -1,0 +1,14 @@
+
+ table,tr,td{
+    background-color: LightGoldenRodYellow ;
+    font-family: Verdana;
+    color: black;
+    border: 1px solid black;
+    padding: 5px;
+    border-collapse: collapse;
+ }
+ .h{
+    border: 8px groove yellow;
+    padding: 20px;
+ }
+ 
